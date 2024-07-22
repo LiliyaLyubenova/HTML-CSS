@@ -10,10 +10,6 @@ article {
 section {
   color: #4c7658;
 }
-
-section article p {
-font-weight: bold;
-  }
 section article h2 {
   color: #4c7658;
   font-style: italic;
@@ -22,4 +18,5 @@ section article p {
   color: #4c7658;
   font-weight: normal;
   font-style: italic;
+  font-weight: bold;
 }
